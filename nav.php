@@ -16,7 +16,7 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav align-items-center ms-lg-5">
                         <li class="nav-item">
-                            <a class="nav-link active" href="index.html">Homepage</a>
+                            <a class="nav-link active" href="index.php">Homepage</a>
                         </li>
 
                         <li class="nav-item">
